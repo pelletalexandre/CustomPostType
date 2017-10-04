@@ -23,4 +23,6 @@ require_once ( __DIR__.'/option/option_field_text.php' );
 require_once ( __DIR__.'/option/option_field_email.php' );
 require_once ( __DIR__.'/option/option_field_url.php' );
 require_once ( __DIR__.'/option/option_field_page_link.php' );
+require_once ( __DIR__.'/option/option_field_cpt_link.php' );
+
 ?>

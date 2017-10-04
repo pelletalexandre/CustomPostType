@@ -204,6 +204,10 @@ if( !class_exists( 'Option' ) )
                     case Option_Field::TYPE_PAGE_LINK :
                         $this->fields [] = new Option_Field_Page_Link ( $arr_data [$i], $this );
                         break;
+
+                    case Option_Field::TYPE_CPT_LINK :
+                        $this->fields [] = new Option_Field_CPT_Link ( $arr_data [$i], $this );
+                        break;
                     
                     /*
                     case CPT_Field::TYPE_INPUT_HIDDEN :

@@ -20,6 +20,7 @@ if( !class_exists( 'Option_Field' ) )
 		const TYPE_INPUT_FLOAT = 11;
 		const TYPE_VISUAL_EDITOR = 12;
         const TYPE_PAGE_LINK = 13;
+        const TYPE_CPT_LINK = 14;
         
         //option associée
         public $option = null;
