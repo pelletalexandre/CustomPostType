@@ -1,0 +1,57 @@
+
+
+/*TITRE DES CHAMPS*/
+label.label-titre-field
+{
+    color:navy;
+}
+
+
+/*LISTE DE RADIO BOUTON*/
+
+label.label-li
+{
+    color:black;
+}
+
+.cpt-ul
+{
+    list-style: none;
+    margin: 0px;
+}
+
+/* EN MODE LISTE */
+.cpt-ul-list li
+{
+    list-style:none;
+    display:inline;
+    margin:0px;
+}
+
+
+.cpt-ul-list li:not(:first-child)
+{
+    margin-left:10px;
+}
+
+
+
+
+.cpt-ul-column
+{
+    
+}
+
+.cpt-ul-list-level-2
+{
+    margin-left:20px;
+    margin-top:8px;
+}
+
+
+
+/*Largeur du label d'un élément de formulaire*/
+.form-table th
+{
+    width:220px !important;
+}

@@ -1,0 +1,46 @@
+.media-sidebar .setting input, 
+.media-sidebar .setting textarea
+{
+	width:62% !important;
+}
+
+.compat-item .field
+{
+	width:50% !important;
+	text-align:right !important;
+}
+
+.compat-item .field input
+{
+	width:80% !important;
+}
+
+.compat-item .field p.help
+{
+	margin:0px !important;
+}
+
+.compat-item tr
+{
+	border-bottom:1px solid #ccc;
+	padding: 3px !important;
+}
+
+.attachment-preview
+{
+	width: 140px !important;
+}
+
+.attachment-preview  div.hover
+{
+	position: absolute;
+	top:0;
+	left:0;
+}
+
+.attachment-preview img.icon
+{
+	position: absolute;
+	bottom: 40px;
+	left:45px;
+}
