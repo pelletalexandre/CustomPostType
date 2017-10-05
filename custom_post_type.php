@@ -14,4 +14,6 @@ require_once ( __DIR__.'/core/utils.php' );
 require_once ( __DIR__.'/core/cpt_lib.php' );   
 require_once ( __DIR__.'/core/option_lib.php' );   
       
+//Modif test clone repo      
+      
 ?>
